@@ -60,7 +60,7 @@
 </p>
 </div>
 <div id="links">
-<a href="https://sky.shiiyu.moe/stats/f170/Raspberry"> stuff </a>
+<a href="https://www.youtube.com/watch?v=2tdiKTSdE9Y"> stuff </a>
 </div>
 </body>
 <body>
