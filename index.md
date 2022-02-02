@@ -1,9 +1,9 @@
 <html>
 <head>
-<title> website </title>
+<title> Website </title>
 </head>
 <nav> 
-<h2> menu </h2>
+<h2> Menu </h2>
 <body>
 <a href="#destiantions"> destiantions </a>
 	<ul>
