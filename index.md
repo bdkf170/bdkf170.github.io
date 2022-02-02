@@ -4,29 +4,13 @@
 </head>
 <nav> 
 <h2> Menu </h2>
-<body>
-<a href="#destiantions"> destiantions </a>
-	<ul>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson1.html">Lesson 1 </a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson2.html">Lesson 2</a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson3.html">Lesson 3</a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson4.html">Lesson 4 </a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson5.html">Lesson 5 </a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson6.html">Lesson 6 </a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson7.html">Lesson 7 </a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson8.html">Lesson 8 </a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson9.html">Lesson 9 </a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson10&11.html">Lesson 10-11 </a></li>
-		<li><a href="file:///C:/Users/bryce/Desktop/School%20Projects/lessons/lesson12.html"> lesson 12 </a></li>
-	</ul>
-</body>
 <a href="#gallery"> gallery </a>
 </nav>
 <div id="destiantions">
 	<h3> Inca Empire</h3>
 	<h3> The Rise and Fall of Two Great Empires </h3>
-</div> 
-<div id="gallery"> </div>
+</div> <!-- "destiantions"-->
+<div id="gallery"> </div> <!-- gallery -->
 
 <body>
 <header> 
@@ -45,6 +29,8 @@
     Pachacuti’s son, Thupa Inca Yupanqui, expanded the empire a further 2,500 miles at this point they started calling their empire Tawantinsuyo meaning “land of the four quarters'.” From the capital Cuzco, the Incas had built massive highways stretching from the furthest south to the furthest north of the Inca empire through the Andes mountains which isn't easy to do without machines which they didn't have. After a time, they had 40,000 people governing a lot of land with 10 million people living in it speaking over 30 different languages. 
    They kept growing and would have gotten even bigger except the conquistadors came in and brought diseases. Slowly killing the empire until there wasn't much of it left. So why do I think this is one of the most interesting empires? It had highways before machinery was a thing, it had over 10 million people living in it and it had a tax and government system.
  </p>
+	</div> <!-- FirstSection -->
+	<div id ="SecondSection">
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UO5ktwPXsyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <header>
